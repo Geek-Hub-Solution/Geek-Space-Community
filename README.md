@@ -4,4 +4,4 @@ Những điều mà bạn cần biết nếu muốn tham gia [Geek Space Communi
 ## Nội dung
 
 - [Nội quy của nhóm](rules.md)
-- [Danh sách #hashtag sử dụng trong nhóm](rank.md)
+- [Danh sách #hashtag sử dụng trong nhóm](hashtags.md)
