@@ -5,3 +5,9 @@ Những điều mà bạn cần biết nếu muốn tham gia [Geek Space Communi
 
 - [Nội quy của nhóm](rules.md)
 - [Danh sách #hashtag sử dụng trong nhóm](hashtags.md)
+
+## Contributors
+
+- [@LeoTrinh](https://upme.cloud/tinhleo)
+- [@MikeVu](https://upme.cloud/mikeghs)
+- [@WalterTo](https://upme.cloud/walter)
