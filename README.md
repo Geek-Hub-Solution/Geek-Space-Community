@@ -1,5 +1,5 @@
 # Geek Space Community
-Những điều mà bạn cần biết nếu muốn tham gia [Geek Space Community](https://www.facebook.com/geekspacecommunity/)
+Những điều mà bạn cần biết khi tham gia [Geek Space Community](https://www.facebook.com/geekspacecommunity/)
 
 ## Nội dung
 
