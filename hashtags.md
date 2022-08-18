@@ -32,7 +32,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #geekspace_software    | Phần mềm                      |
 | #geekspace_hardware    | Phần cứng (trừ câu hỏi)       |
 | #geekspace_programming | Lập trình                     |
-| #geekspace_unknown | Nếu muốn hadtag mà chưa biết tag cái gì                     |
+| #geekspace_unknown | Nếu muốn hashtags mà chưa biết tags cái gì                     |
 
 
 (Danh sách hashtag phụ sẽ được cập nhật thêm cho phù hợp với nhóm...)
