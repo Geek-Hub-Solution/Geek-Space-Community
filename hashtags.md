@@ -10,6 +10,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 
 | Hashtag            | Chủ đề, nội dung của bài viết                    |
 |--------------------|--------------------------------------------------|
+| #geekspace_meet   | Workshop, talkshow, meetup                               |
 | #geekspace_question   | Hỏi đáp, thắc mắc                                |
 | #geekspace_discussion | Thảo luận về chủ đề nào đó                       |
 | #geekspace_share      | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...) |
